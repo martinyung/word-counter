@@ -3,3 +3,5 @@ venv/
 
 # ignore .env file
 .env
+
+__pycache__/
